@@ -1,0 +1,82 @@
+.display-5 {
+    text-align: center;
+}
+.lead {
+    text-align: center;
+}
+.cont1 {
+    margin-top: 90px;
+    text-align: center;
+    background-image: url(https://wallpapercave.com/wp/wp8680247.jpg);
+    height: 200px;
+    color: white;
+    padding-top: 20px;
+}
+.shop {
+    margin-top: 15px;
+}
+.cont1 p {
+    font-size: large;
+}
+@media (max-width: 576px) {
+    .cont1 {
+        height: 300px;
+    }
+    .btnshop {
+        padding-top: 10px;
+    }
+    .lo {
+        text-align: right;
+        padding-right: 50px;
+    }
+    #btn1 {
+        margin-right: 40px;
+        margin-top: 5px;
+    }
+    #btn2 {
+        margin-top: 5px;
+
+    }
+    
+
+}
+@media (max-width: 768px) {
+    .cont1 {
+        height: 300px;
+    }
+    .btnshop {
+        padding-top: 10px;
+    }
+    .cont1 p {
+        padding-top: 20px;
+    }
+    .cont1 h1 {
+        padding-top: 0px;
+    }
+    .ssbtn {
+        display: flex;
+        justify-content: center;
+    }
+    
+
+}
+.frm {
+    padding-left: 50px;
+}
+.aac {
+    text-align: center;
+    color: gray
+}
+@media (max-width: 1200px) {
+    #btn1 {
+        margin-inline-end: 20px;
+    }
+}
+.hhd h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.hhd p {
+    text-align: center;
+    color: red;
+}
